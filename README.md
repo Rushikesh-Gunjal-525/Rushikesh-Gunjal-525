@@ -1,78 +1,74 @@
-# Rushikesh Gunjal
+<div align="center">
 
-### Full-Stack Web Developer | Generative AI Learner
+<!-- HEADER BANNER -->
+<img src="banner.png" alt="dev with rushi banner" width="100%" />
 
-I build practical, user-focused web applications with JavaScript, Node.js, and modern web APIs. Alongside full-stack development, I am developing my skills in Generative AI and exploring how intelligent features can make software more useful, accessible, and efficient.
+<br/>
 
-[LinkedIn](https://www.linkedin.com/in/devwithrushi/) | [Email](mailto:gunjalr525@gmail.com) | [GitHub](https://github.com/Rushikesh-Gunjal-525)
+<!-- SOCIAL BADGES -->
+<a href="https://www.linkedin.com/in/devwithrushi/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-@devwithrushi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:gunjalr525@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-gunjalr525@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
-## About Me
+</div>
 
-I am a third-year Bachelor of Engineering student specializing in Artificial Intelligence and Data Science at Amrutvahini College of Engineering, Sangamner.
+<br/>
 
-My development interests include:
+### 👋 Hi there
 
-- Building full-stack web applications with clean, maintainable architecture
-- Designing REST APIs, authentication systems, and real-time communication features
-- Learning Generative AI, LLM concepts, prompt engineering, and AI-powered application development
-- Turning ideas into reliable software that solves real problems
+- 🎓 **3rd Year AI & Data Science Engineering** student at *Amrutvahini College of Engineering, Sangamner*.
+- 💻 **Software Developer** focused on **Full-Stack** and **Backend Development**.
+- ⚙️ Building real-time systems, robust REST APIs, and practical software solutions.
+- 🤝 Open to software development opportunities, collaborations, and discussions.
 
-I enjoy working across the stack, from responsive user experiences to secure backend services and data-driven features.
+---
 
-## Technical Skills
+### 💻 Tech Stack
 
-| Area                          | Technologies                                                        |
-| :---------------------------- | :------------------------------------------------------------------ |
-| **Frontend**                  | JavaScript (ES6+), React.js, HTML5, CSS3               |
-| **Backend**                   | Node.js, Express.js, REST APIs, Socket.IO                           |
-| **Databases**                 | MongoDB, Mongoose                                                   |
-| **Authentication & Security** | JWT, HTTP-only cookies, bcryptjs, Joi                               |
-| **Tools & Services**          | Docker, Nodemailer                                                  |
-| **Learning Focus**            | Generative AI, LLM applications, prompt engineering, AI integration |
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,docker" alt="Tech Stack" />
+</p>
 
-## Featured Projects
+### 🛠 Tools & Platforms
 
-### Anonymous Real-Time Chat Application
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools" />
+</p>
 
-A room-based chat platform built for real-time, identity-free communication, with voice and audio features implemented directly in the browser.
+---
 
-- **Live application:** [chat-app-ln8m.onrender.com](https://chat-app-ln8m.onrender.com)
-- **Source code:** [Anonymous Chat App](https://github.com/Rushikesh-Gunjal-525/chat_app)
-- **Tech stack:** Node.js, Socket.IO, JavaScript, HTML5 Canvas, Web Audio API, Web Speech API
+### 🚀 Featured Projects
 
-**Highlights:**
+#### 1. [Anonymous Real-Time Chat Application](https://chat-app-ln8m.onrender.com)
+> A zero-identity, room-based real-time communication platform featuring procedural client-side audio synthesis and speech processing.
 
-- Built low-latency, bi-directional messaging with Socket.IO rooms
-- Added browser-based voice-note recording with the MediaRecorder API
-- Created a live audio visualizer using Canvas and the Web Audio API
-- Added in-browser speech-to-text using the Web Speech API
+* **Tech:** Node.js, Socket.IO, JavaScript, HTML5 Canvas, Web Audio API, Web Speech API, MediaRecorder API
+* **Live Demo:** [chat-app-ln8m.onrender.com](https://chat-app-ln8m.onrender.com)
+* **Key Implementations:**
+  * Real-time bi-directional messaging with transient Socket.IO rooms.
+  * Native **Web Audio API** procedural soundboard (zero external MP3 asset downloads).
+  * In-browser voice-note recording with **MediaRecorder** and live **Canvas audio visualizer**.
+  * Integrated **Web Speech API** for real-time speech-to-text transcription.
 
-### JWT Authentication & Authorization Backend
+---
 
-A reusable authentication backend designed for secure integration with multi-client web applications.
+#### 2. Reusable JWT Authentication Backend
+> A modular, standalone backend authentication system engineered for seamless plug-and-play integration.
 
-- **Source code:** [JWT Auth Backend](https://github.com/Rushikesh-Gunjal-525/chat_app)
-- **Tech stack:** Node.js, Express.js, MongoDB, Mongoose, JWT, bcryptjs, Joi, Nodemailer
+* **Tech:** Node.js, Express.js, MongoDB, Mongoose, JWT, bcryptjs, Joi, Nodemailer
+* **Key Implementations:**
+  * Stateless token-based authorization with secure HTTP-only cookies.
+  * Defensive input validation using **Joi** schemas before reaching database layers.
+  * Salted cryptographic password hashing with **bcryptjs**.
+  * Modular architecture with transactional email workflows via **Nodemailer**.
 
-**Highlights:**
+---
 
-- Implemented JWT-based authentication with secure HTTP-only cookies
-- Added request validation with Joi before business logic and database operations
-- Protected credentials with salted bcrypt password hashing
-- Created email verification and transactional email workflows with Nodemailer
-- Organized routes and data models into a modular Express architecture
+### 📬 Connect With Me
 
-## Education
-
-**Bachelor of Engineering in Artificial Intelligence & Data Science** | 3rd Year  
-Amrutvahini College of Engineering, Sangamner
-
-Relevant coursework includes Data Structures and Algorithms, Database Management Systems, Operating Systems, and AI Foundations.
-
-## Connect With Me
-
-I am open to learning opportunities, internships, collaborations, and conversations about full-stack development and Generative AI.
-
-- [LinkedIn](https://www.linkedin.com/in/devwithrushi/)
-- [Email](mailto:gunjalr525@gmail.com)
-- [GitHub](https://github.com/Rushikesh-Gunjal-525)
+- **Email:** [gunjalr525@gmail.com](mailto:gunjalr525@gmail.com)
+- **LinkedIn:** [linkedin.com/in/devwithrushi](https://www.linkedin.com/in/devwithrushi/)
+- **GitHub:** [github.com/Rushikesh-Gunjal-525](https://github.com/Rushikesh-Gunjal-525)
