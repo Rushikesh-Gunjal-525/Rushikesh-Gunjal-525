@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="image.png" alt="dev with rushi banner" max-width="100%" hight="50%" />
+<img src="image.png" alt="dev with rushi banner" width="100%" height="300" />
 
 <br/>
 
