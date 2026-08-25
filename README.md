@@ -37,7 +37,7 @@ I enjoy working across the stack, from responsive user experiences to secure bac
 A room-based chat platform built for real-time, identity-free communication, with voice and audio features implemented directly in the browser.
 
 - **Live application:** [chat-app-ln8m.onrender.com](https://chat-app-ln8m.onrender.com)
-- **Source code:** [Anonymous Chat App](https://github.com/Rushikesh-Gunjal-525/Anonymous-Chat-App)
+- **Source code:** [Anonymous Chat App](https://github.com/Rushikesh-Gunjal-525/chat_app)
 - **Tech stack:** Node.js, Socket.IO, JavaScript, HTML5 Canvas, Web Audio API, Web Speech API
 
 **Highlights:**
@@ -51,7 +51,7 @@ A room-based chat platform built for real-time, identity-free communication, wit
 
 A reusable authentication backend designed for secure integration with multi-client web applications.
 
-- **Source code:** [JWT Auth Backend](https://github.com/Rushikesh-Gunjal-525/jwt-auth-backend)
+- **Source code:** [JWT Auth Backend](https://github.com/Rushikesh-Gunjal-525/chat_app)
 - **Tech stack:** Node.js, Express.js, MongoDB, Mongoose, JWT, bcryptjs, Joi, Nodemailer
 
 **Highlights:**
