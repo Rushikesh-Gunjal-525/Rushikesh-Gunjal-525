@@ -20,7 +20,7 @@
 ### 👋 Hi there
 
 - 🎓 **AI & Data Science Engineering** student at *Amrutvahini College of Engineering, Sangamner*.
-- 💻 **Software Developer** focused on **Full-Stack**.
+- 💻 **Software Developer** focused on **Full-Stack + Gen AI**.
 - ⚙️ Building real-time systems, robust REST APIs, and practical software solutions.
 - 🤝 Open to software development opportunities, collaborations, and discussions.
 
