@@ -29,7 +29,7 @@
 ### 💻 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwindcss,react,nodejs,express,mongodb,postgrss,git" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwindcss,react,nodejs,express,mongodb,PostgreSQL,git" alt="Tech Stack" />
 </p>
 
 ### 🛠 Tools & Platforms
