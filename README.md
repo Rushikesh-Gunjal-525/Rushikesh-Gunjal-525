@@ -23,11 +23,10 @@ I enjoy working across the stack, from responsive user experiences to secure bac
 
 | Area                          | Technologies                                                        |
 | :---------------------------- | :------------------------------------------------------------------ |
-| **Frontend**                  | JavaScript (ES6+), React.js, HTML5, CSS3, Canvas API                |
+| **Frontend**                  | JavaScript (ES6+), React.js, HTML5, CSS3               |
 | **Backend**                   | Node.js, Express.js, REST APIs, Socket.IO                           |
 | **Databases**                 | MongoDB, Mongoose                                                   |
 | **Authentication & Security** | JWT, HTTP-only cookies, bcryptjs, Joi                               |
-| **Web APIs**                  | Web Audio API, Web Speech API, MediaRecorder API                    |
 | **Tools & Services**          | Docker, Nodemailer                                                  |
 | **Learning Focus**            | Generative AI, LLM applications, prompt engineering, AI integration |
 
