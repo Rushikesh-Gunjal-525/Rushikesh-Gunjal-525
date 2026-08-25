@@ -29,13 +29,13 @@
 ### 💻 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,docker" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwindcss,react,nodejs,express,mongodb,postgrss,git" alt="Tech Stack" />
 </p>
 
 ### 🛠 Tools & Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,notion,github" alt="Tools" />
 </p>
 
 ---
