@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="banner.png" alt="dev with rushi banner" width="100%" />
+<img src="image.png" alt="dev with rushi banner" width="100%" />
 
 <br/>
 
@@ -19,8 +19,8 @@
 
 ### 👋 Hi there
 
-- 🎓 **3rd Year AI & Data Science Engineering** student at *Amrutvahini College of Engineering, Sangamner*.
-- 💻 **Software Developer** focused on **Full-Stack** and **Backend Development**.
+- 🎓 **AI & Data Science Engineering** student at *Amrutvahini College of Engineering, Sangamner*.
+- 💻 **Software Developer** focused on **Full-Stack**.
 - ⚙️ Building real-time systems, robust REST APIs, and practical software solutions.
 - 🤝 Open to software development opportunities, collaborations, and discussions.
 
